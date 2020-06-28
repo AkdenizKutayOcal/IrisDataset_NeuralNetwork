@@ -1,7 +1,6 @@
 """
 @author: Akdeniz Kutay Ocal
-Title:  CMPE442_TakeHome_Q7
-Description: Question 7 - ANN
+Title: ANN on Iris Dataset
 """
 
 import numpy as np
